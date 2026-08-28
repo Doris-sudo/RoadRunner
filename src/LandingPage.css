@@ -1,0 +1,163 @@
+.navdiv {
+    display: flex;
+    padding-top: 20px;
+    margin: 10px;
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.li {
+    display: flex;
+    gap: 20px;
+    padding-left: 500px;
+
+}
+
+.search {
+    border: 0px;
+    border-radius: 10px;
+    background-color: rgb(236, 235, 235);
+    color: white;
+    margin-left: 100px;
+    padding-left: 10px;
+}
+
+.icn1 {
+    position: relative;
+    left: 5px;
+    top: 10px;
+}
+
+.bgdiv {
+    padding-top: 20px;
+    /* padding-left: 80px; */
+}
+
+.bg {
+    width: 1570px;
+
+}
+
+.blueimg {
+    position: relative;
+    bottom: 200px;
+}
+
+.blueimage {
+    position: relative;
+    bottom: 100px;
+}
+
+.grass {
+    position: relative;
+    top: 235px;
+    left: 20px;
+}
+
+.brown {
+    position: relative;
+    bottom: 290px;
+    left: 2px;
+}
+
+.orange {
+    position: relative;
+    bottom: 290px;
+    left: 20px;
+}
+.fourimages{
+    margin-left: 50px;
+}
+.write-up-one{
+    padding-left: 800px;
+    position: relative;
+    bottom: 800px;
+    font-size: 20px;
+}
+.aboutus{
+    color: orange;
+}
+.div-seven-2{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-top: 100px;
+    row-gap: 80px;
+    column-gap: 30px;
+}
+.div-eight-two{
+    background-color: rgb(216, 215, 215);
+    width: 400px;
+    /* display: flex;
+    gap: 80px; */
+    border-radius: 10px;
+}
+.div-ten {
+    padding: 10px;
+}
+.div-9-2{
+    padding-top: 10px;
+    width: 300px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.product-div{
+    padding-left: 50px;
+    position: relative;
+    bottom: 600px;
+}
+.products{
+    color: orange;
+    padding-left: 600px;
+}
+.Delivery{
+    color: rgb(39, 39, 71);
+    padding-left: 100px;
+    position: relative;
+    top: 100px;
+}
+
+
+.div-seven-2{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-top: 100px;
+    row-gap: 80px;
+    column-gap: 30px;
+}
+.div-eight-two{
+    background-color: rgb(216, 215, 215);
+    width: 400px;
+    /* display: flex;
+    gap: 80px; */
+    border-radius: 10px;
+}
+.div-ten {
+    padding: 10px;
+}
+.div-9-2{
+    padding-top: 10px;
+    width: 300px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.product-div{
+    padding-left: 50px;
+    position: relative;
+    bottom: 600px;
+}
+.products{
+    color: orange;
+    padding-left: 600px;
+}
+.Delivery{
+    color: rgb(39, 39, 71);
+    padding-left: 100px;
+    position: relative;
+    top: 100px;
+}
