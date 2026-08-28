@@ -161,3 +161,11 @@
     position: relative;
     top: 100px;
 }
+.images{
+    display: flex;
+    gap: 100px;
+    padding-left: 190px;
+    padding-right: 20px;
+    position: relative;
+    bottom: 500px;
+}

@@ -159,7 +159,7 @@ function LandingPage() {
 
             </section>
             <section>
-                <div>
+                <div className="images">
                     <img src="/image 5.png" alt="" />
                     <img src="/image 7.png" alt="" />
                     <img src="/image 8.png" alt="" />
